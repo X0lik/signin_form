@@ -1,0 +1,4 @@
+C:\Users\maver\source\repos\TestingApp\x64\Debug\TestingApp.vcxproj.AssemblyReference.cache
+C:\Users\maver\source\repos\TestingApp\x64\Debug\TestingApp.MyForm.resources
+C:\Users\maver\source\repos\TestingApp\x64\Debug\TestingApp.vcxproj.GenerateResource.cache
+C:\Users\maver\source\repos\TestingApp\x64\Debug\TestingApp.exe
